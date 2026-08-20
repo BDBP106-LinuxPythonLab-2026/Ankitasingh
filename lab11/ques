@@ -1,0 +1,9 @@
+#!/bin/bash
+# 
+#
+if [ -e fell ]
+then 
+	echo "Exists"
+else 
+	echo "does not exits"
+fi

@@ -1,0 +1,11 @@
+.:
+total 28
+drwxrwxr-x 2 ibab ibab 4096 Jul 16 17:07 Lab1
+-rw-rw-r-- 1 ibab ibab   80 Jul 31 16:36 PATH is a global variable.txt
+drwxrwxr-x 2 ibab ibab 4096 Jul 17 14:57 apt.conf
+-rw-rw-r-- 1 ibab ibab   54 Aug 20 14:36 filesnotpresent
+drwxrwxr-x 2 ibab ibab 4096 Aug 20 14:32 lab11
+-rw-rw-r-- 1 ibab ibab    0 Aug 20 14:46 listoffiles
+-rw-rw-r-- 1 ibab ibab  491 Aug 20 14:36 presentfiles
+-rw-rw-r-- 1 ibab ibab    0 Aug 12 10:43 script.txt
+drwxrwxr-x 2 ibab ibab 4096 Aug 19 14:13 scripts
